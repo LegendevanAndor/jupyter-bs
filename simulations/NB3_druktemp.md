@@ -38,6 +38,9 @@ N = 40                         # Aantal deeltjes
 V_0 = 1                        # Startsnelheid van deeltjes
 RADIUS = 0.3                   # Straal van moleculen
 DT = 0.1 * RADIUS / V_0        # Tijdstap om geen botsing te missen
+
+welmjewrkjerv jkervevrf
+
 ```
 
 <!-- #region tags=[] -->
